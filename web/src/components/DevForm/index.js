@@ -32,10 +32,9 @@ function DevForm({ onSubmit }) {
       latitude,
       longitude
     });
-    
+
     setGithub_username('');
     setTechs('');
-
   }
   return (
     <form onSubmit={handleSubmit}>
