@@ -1,7 +1,9 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
+const http = require('http');
 const routes = require('./routes');
+const { setupWebsocket } = require('./websocket');
 
 //dotenv configs
 require('dotenv').config();
@@ -10,6 +12,9 @@ const password = process.env.DB_PASS;
 const dbName = process.env.DB_NAME;
 
 const app = express();
+const server = http.Server(app);
+
+setupWebsocket(server);
 
 mongoose.connect(`mongodb+srv://${username}:${password}@cluster0-yqhtv.mongodb.net/${dbName}?retryWrites=true&w=majority`, {
     useNewUrlParser: true,
@@ -29,7 +34,7 @@ app.use(routes);
 
 app.post('/users', (request, response) => {
     console.log(request.body);
-    return response.json({ message: 'Conexão realizada'});
+    return response.json({ message: 'Conexão realizada' });
 });
 
-app.listen(3333);
+server.listen(3333);
