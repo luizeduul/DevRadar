@@ -13,7 +13,6 @@ const dbName = process.env.DB_NAME;
 
 const app = express();
 const server = http.Server(app);
-
 setupWebsocket(server);
 
 mongoose.connect(`mongodb+srv://${username}:${password}@cluster0-yqhtv.mongodb.net/${dbName}?retryWrites=true&w=majority`, {
