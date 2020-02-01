@@ -7,15 +7,14 @@ const { setupWebsocket } = require('./websocket');
 
 //dotenv configs
 require('dotenv').config();
-const username = process.env.DB_USERNAME;
-const password = process.env.DB_PASS;
-const dbName = process.env.DB_NAME;
+const MONGO_URL = process.env.MONGO_URL;
+
 
 const app = express();
 const server = http.Server(app);
 setupWebsocket(server);
 
-mongoose.connect(`mongodb+srv://${username}:${password}@cluster0-yqhtv.mongodb.net/${dbName}?retryWrites=true&w=majority`, {
+mongoose.connect(`${MONGO_URL}`, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
