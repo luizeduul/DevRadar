@@ -12,7 +12,8 @@
     "socket.io": "^2.3.0"
   },
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon src/index.js",
+    "scripts": "node src/index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
