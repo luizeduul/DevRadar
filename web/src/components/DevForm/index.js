@@ -26,7 +26,6 @@ function DevForm({ onSubmit }) {
   async function handleSubmit(e) {
     e.preventDefault();
     await onSubmit({
-
       github_username,
       techs,
       latitude,
@@ -57,6 +56,7 @@ function DevForm({ onSubmit }) {
           value={techs}
           onChange={e => setTechs(e.target.value)} />
       </div>
+
       <div className="input-group">
         <div className="input-block">
           <label htmlFor="latitude">Latitude</label>

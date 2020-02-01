@@ -49,3 +49,19 @@ li.dev-item a {
 li.dev-item a:hover {
     color: #5A2EA6;
 }
+
+li .buttons {
+    margin-top: 20px;
+}
+
+li .buttonEdit {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+li .buttonDelete {
+    border: none;
+    background: none;
+    cursor: pointer;
+}
