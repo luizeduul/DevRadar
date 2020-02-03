@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link } from 'react-router-dom';
 
-//import api from '../../services/api';
+//import api from '../../services/api'; fix issue later
 import Axios from "axios";
 
 import './styles.css'
