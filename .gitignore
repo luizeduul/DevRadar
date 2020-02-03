@@ -1,3 +1,5 @@
-web/
+#dependencies directories
+node_modules/
 
-DevRadar/
+#dotenv
+.env
