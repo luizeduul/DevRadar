@@ -27,4 +27,4 @@ app.post('/users', (request, response) => {
     return response.json({ message: 'Conexão realizada' });
 });
 
-server.listen(3333);
+server.listen(process.env.PORT || 3333);
