@@ -18,10 +18,14 @@ function DevUpdate({ history }) {
   const pathname = window.location.pathname;
   pathname.split('/devs/');
 
+  const api = process.env.REACT_APP_API_URL;
+  
+
   useEffect(() => {
     async function loadData() {
-      const response = await Axios.get(`http://localhost:3333${pathname}`);
+      const response = await Axios.get(`${api}${pathname}`);
       setDevEdit(response.data);
+      
     }
     loadData();
   }, []);
@@ -57,7 +61,7 @@ function DevUpdate({ history }) {
   async function handleUpdateDev(e) {
     e.preventDefault();
     try {
-      await Axios.put(`http://localhost:3333${pathname}`, {
+      await Axios.put(`${api}${pathname}`, {
         name,
         bio,
         techs,
@@ -112,7 +116,7 @@ function DevUpdate({ history }) {
             name="techs"
             id="techs"
             required
-            value={dev.techs}
+            defaultValue={dev.techs}
             onChange={e => setTechs(e.target.value)}
           />
         </div>
