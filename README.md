@@ -9,9 +9,9 @@ Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
 ## Como instalar 
 Faça um clone desse projeto em sua máquina
    Abrir as pastas de: 
-   - [backend](https://github.com/luizeduul/DevRadar/tree/master/backend)
-   - [frontend](https://github.com/luizeduul/DevRadar/tree/master/web)
-   - [mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)
+   - [backend](https://github.com/luizeduul/DevRadar/tree/master/backend)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   - [frontend](https://github.com/luizeduul/DevRadar/tree/master/web)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   - [mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <h2>Descrição</h2>
   
 ## Tecnologias
