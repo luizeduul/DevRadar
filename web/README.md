@@ -1,6 +1,23 @@
-Componente->bloco isolado de html, css e js, o qual nao interfere no restante da aplicação
-   Quando criar um componente? ->> quando está repetindo um trecho de codigo muitas vezes ou isolar um trecho de uma aplicação
+<h1 align="center">Instruções de uso para o Frontend</h1>
+ 
+<p>Feito isso você irá precisar instalar as dependencias do projeto</p>
+<p>Abra a pasta do projeto DevRadar, abra a pasta web no terminal</p>
 
-Propriedade-> informações que o componente PAI passa para o componente filho
+<p>Faça a instalação das dependencias do projeto. Com yarn ou npm. Eu utilizei e recomendo o Yarn</p>
 
-Estado-> informações mantidas pelo componente (lembrar: imutabilidade)
+  # yarn -> yarn install 
+  
+    ou 
+    
+  # npm -> npm install
+  
+  <p>Após completar toda a instalação, execute o comando: </p>
+   <p>  
+     yarn start -> se tudo tiver dado certo, irá abrir no navegador: localhost:3000 com a aplicação funcionando
+     
+     <p> ** Deixe o servidor do backend rodando antes de executar o comando acima,/p>
+   </p>
+   
+ 
+    
+  
