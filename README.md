@@ -9,7 +9,7 @@
       
 ## Como instalar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
-<p>Abrir as pastas de: </p><br>
+<p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções a seguir</p><br>
  <p>
    <a href="https://github.com/luizeduul/DevRadar/tree/master/backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/luizeduul/DevRadar/tree/master/web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
