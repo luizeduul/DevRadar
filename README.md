@@ -6,7 +6,7 @@ Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
       
-<h2> Como instalar </h2>
+## Como instalar 
 Faça um clone desse projeto em sua máquina
    Abrir as pastas de: 
    - [backend](https://github.com/luizeduul/DevRadar/tree/master/backend)
@@ -14,7 +14,7 @@ Faça um clone desse projeto em sua máquina
    - [mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)
 <h2>Descrição</h2>
   
-<h2 align="left">Tecnologias</h2>
+## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node.js](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
   - [React](https://reactjs.org): É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
