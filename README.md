@@ -5,7 +5,15 @@
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p>Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat</p>
+<p align="center">
+  <img alt="WepPage" src=".repoAssets/webpage.png" width="100%">
+</p>
+<p align="center">
+  <img alt="WepPageUpdate" src=".repoAssets/webpageUpdate.png" width="100%">
+</p>
+
+
+<p>Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat 🚀</p>
       
 ## Como instalar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
