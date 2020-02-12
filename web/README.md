@@ -15,7 +15,7 @@
    <p>  
      yarn start -> se tudo tiver dado certo, irá abrir no navegador: localhost:3000 com a aplicação funcionando
      
-     <p> ** Deixe o servidor do backend rodando antes de executar o comando acima,/p>
+     <p> ** Deixe o servidor do backend rodando antes de executar o comando acima</p>
    </p>
    
  
