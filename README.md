@@ -9,12 +9,12 @@ Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
 <h2>Como instalar</h2>
 <p>Faça um clone desse projeto em sua máquina</p>
    Abrir as pastas de: 
-   <p>[backend](https://github.com/luizeduul/DevRadar/tree/master/backend)</p>
-   <p>[frontend]https://github.com/luizeduul/DevRadar/tree/master/web)</p>
-   <p>[mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)</p>
+   - [backend](https://github.com/luizeduul/DevRadar/tree/master/backend)
+   - [frontend]https://github.com/luizeduul/DevRadar/tree/master/web)
+   - [mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)
 <h2>Descrição</h2>
   
-<h2>Tecnologias</h2>
+<h2 align="left">Tecnologias</h2>
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node.js](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
   - [React](https://reactjs.org): É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
