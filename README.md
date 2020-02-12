@@ -2,8 +2,9 @@
 Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
 
 <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/DevRadar">
+<img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-#Tecnologias
+# Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node.js](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
   - [React](https://reactjs.org): É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
