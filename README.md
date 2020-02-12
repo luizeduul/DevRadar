@@ -13,7 +13,7 @@ Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
    <p>[frontend]https://github.com/luizeduul/DevRadar/tree/master/web)</p>
    <p>[mobile](https://github.com/luizeduul/DevRadar/tree/master/DevRadar)</p>
 <h2>Descrição</h2>
-  <p>Existe um texto aki</p>
+  
 <h2>Tecnologias</h2>
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node.js](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
