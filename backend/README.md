@@ -6,6 +6,7 @@
 <p>Abra a pasta do projeto DevRadar, abra a pasta backend no terminal</p>
 
 <p>Faça a instalação das dependencias do projeto. Com yarn ou npm. Eu utilizei e recomendo o Yarn</p>
+
   # yarn -> yarn install 
   
     ou 
