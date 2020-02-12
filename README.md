@@ -6,8 +6,8 @@ Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
       
-<h2>Como instalar</h2>
-<p>Faça um clone desse projeto em sua máquina</p>
+# Como instalar
+Faça um clone desse projeto em sua máquina
    Abrir as pastas de: 
    - [backend](https://github.com/luizeduul/DevRadar/tree/master/backend)
    - [frontend]https://github.com/luizeduul/DevRadar/tree/master/web)
