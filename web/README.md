@@ -1,6 +1,6 @@
 <h1 align="center">Instruções de uso para o Frontend</h1>
  
-<p>Feito isso você irá precisar instalar as dependencias do projeto</p>
+<p>Primeiramente você vai precisar instalar as dependencias do projeto</p>
 <p>Abra a pasta do projeto DevRadar, abra a pasta web no terminal</p>
 
 <p>Faça a instalação das dependencias do projeto. Com yarn ou npm. Eu utilizei e recomendo o Yarn</p>
