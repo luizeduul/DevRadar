@@ -1,4 +1,6 @@
-<h1 align="center">DevRadar</h1>
+<h1 align="center">
+  <img alt="DevRadar" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/icon_8qHZ9aDmH.png" width="250px" />
+</h1>
 
 <p align="center">
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/DevRadar">
@@ -34,7 +36,6 @@
 
 <h3>Web</h3>
 <span align="center">Web home</span>
-  Home
   <img alt="webhome" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/webpage_zf3yRR8mn.png"/>
 </p>
 
@@ -46,7 +47,6 @@
 <h3>Mobile</h3>
 <span align="center">Mobile home</span>
 <p align="center">
-  Mobile Home
   <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_1_98flKv7Gi.jpg" width="250px"/>
 </p><br/>
 <span align="center">Mobile detalhes mapa</span>
