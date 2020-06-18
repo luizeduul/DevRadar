@@ -33,30 +33,29 @@
 ## Previews do projeto
 
 <h3>Web</h3>
-<p align="center">
+<span align="center">Web home</span>
   Home
   <img alt="webhome" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/webpage_zf3yRR8mn.png"/>
 </p>
 
+<span align="center">Web update</span>
 <p align="center">
-  Page Update
   <img alt="webupdate" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/webpageUpdate_Y4vuT8HTS.png"/>
 </p>
 
 <h3>Mobile</h3>
+<span align="center">Mobile home</span>
 <p align="center">
   Mobile Home
   <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_1_98flKv7Gi.jpg" width="250px"/>
-</p>
-
+</p><br/>
+<span align="center">Mobile detalhes mapa</span>
 <p align="center">
-  Mobile Map details
-  <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_2_cJyZDGQDd.jpg" width="250px"/>
-</p>
-
+  <img alt="mobile2" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_2_cJyZDGQDd.jpg" width="250px"/>
+</p><br/>
+<span align="center">Mobile perfil github</span>
 <p align="center">
-  Mobile Perfil Github
-  <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_perfil_q7KiX6t2u.jpg" width="250px"/>
+  <img alt="mobile3" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_perfil_q7KiX6t2u.jpg" width="250px"/>
 </p>
 
 ---
