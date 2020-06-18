@@ -2,22 +2,65 @@
 
 <p align="center">
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/DevRadar">
+ <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luizeduul/DevRadar">
  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<p>Projeto desenvolvido com os vídeos da Semana Omistack 10.0 da Rocketseat 🚀</p>
+<p>Projeto desenvolvido durante a Semana Omistack 10.0 da Rocketseat 🚀</p>
+
+## Índice
+- [Descrição](#descrição)
+- [Como utilizar](#como-utilizar)
+- [Previews do projeto](#previews-do-projeto)
+- [Tecnologias Utilizadas](#tecnologias)
+
+## Descrição
+<p> O projeto DevRadar tem o objetivo de encontrar devs que trabalham com determinada tecnologia à uma distância de 10km. A aplicação web é capaz de cadastrar os devs (com o auxilio da api do github para buscar informações do perfil da pessoa). Também é capaz de editar e apagar registros do banco de dados. O aplicativo mobile DevRadar tem a função de exibir os devs no mapa de acordo com a localização dos devs, realizar uma busca de devs de acordo com as tecnologias utilizadas. Exibir em tempo real quando um novo dev se cadastra na aplicação e estiver nos requisitos de 10 km de distancia e utilizar a tecnologia filtrada no app no momento cadastro. Também exibe uma webview com o perfil do github ao clicar nos dados de um dev</p>
+
+---
       
-## Como instalar 
+## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas</p><br>
- <p>
-   <a href="https://github.com/luizeduul/DevRadar/tree/master/backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/luizeduul/DevRadar/tree/master/web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/luizeduul/DevRadar/tree/master/DevRadar">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- </p>
-<h2>Descrição</h2>
- <p> O projeto DevRadar tem o objetivo de encontrar devs que trabalham com determinada tecnologia à uma distância de 10km. A aplicação web é capaz de cadastrar os devs (com o auxilio da api do github para buscar informações do perfil da pessoa). Também é capaz de editar e apagar registros do banco de dados. O aplicativo mobile DevRadar tem a função de exibir os devs no mapa de acordo com a localização dos devs, realizar uma busca de devs de acordo com as tecnologias utilizadas. Exibir em tempo real quando um novo dev se cadastra na aplicação e estiver nos requisitos de 10 km de distancia e utilizar a tecnologia filtrada no app no momento cadastro. Também exibe uma webview com o perfil do github ao clicar nos dados de um dev</p>
-  
+<p>
+  <a href="https://github.com/luizeduul/DevRadar/tree/master/backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luizeduul/DevRadar/tree/master/web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luizeduul/DevRadar/tree/master/DevRadar">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+ 
+---
+
+## Previews do projeto
+
+<h3>Web</h3>
+<p align="center">
+  Home
+  <img alt="webhome" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/webpage_zf3yRR8mn.png"/>
+</p>
+
+<p align="center">
+  Page Update
+  <img alt="webupdate" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/webpageUpdate_Y4vuT8HTS.png"/>
+</p>
+
+<h3>Mobile</h3>
+<p align="center">
+  Mobile Home
+  <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_1_98flKv7Gi.jpg" width="250px"/>
+</p>
+
+<p align="center">
+  Mobile Map details
+  <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_2_cJyZDGQDd.jpg" width="250px"/>
+</p>
+
+<p align="center">
+  Mobile Perfil Github
+  <img alt="mobile1" src="https://ik.imagekit.io/8qmbx6p1dq/DevRadar/mobile_perfil_q7KiX6t2u.jpg" width="250px"/>
+</p>
+
+---
+
 ## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Node JS](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
